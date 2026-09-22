@@ -1,6 +1,7 @@
 # Lightweight Romanized-Hindi Correction
 
 **Author:** [Ashay Kushwaha](https://github.com/AshayK003) ([CypherLabs](https://github.com/AshayK003))
+**Report:** [internals/report.pdf](internals/report.pdf)
 
 > **Status: measured — a negative result, reported with evidence.**
 > `python evaluate.py` regenerates every number (fetches the 33MB Hindi
