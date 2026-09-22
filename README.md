@@ -2,6 +2,9 @@
 
 **Author:** [Ashay Kushwaha](https://github.com/AshayK003) ([CypherLabs](https://github.com/AshayK003))
 **Report:** [internals/report.pdf](internals/report.pdf)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)] [![Report](https://img.shields.io/badge/report-PDF-red.svg)](internals/report.pdf)
+
+**Keywords:** Hindi transliteration, Romanized Hindi, Hinglish correction, NLP, Indic languages, Aksharantar
 
 > **Status: measured — a negative result, reported with evidence.**
 > `python evaluate.py` regenerates every number (fetches the 33MB Hindi
